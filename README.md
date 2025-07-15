@@ -1,3 +1,5 @@
+![Maintenance Distribution](assets/Dist_Maintinance.png)
+
 # An Articulation of Natural Language for Forecasting: Next Steps in the Evolution of Relevance
 
 ## Kenneth Luke Skertich
