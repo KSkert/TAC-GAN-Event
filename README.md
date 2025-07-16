@@ -1,4 +1,4 @@
-![Maintenance Distribution](assets/Dist_Maintinance.png)
+![Maintenance Distribution](assets/TAC-GAN_Flow.png)
 
 # An Articulation of Natural Language for Forecasting: Next Steps in the Evolution of Relevance
 
